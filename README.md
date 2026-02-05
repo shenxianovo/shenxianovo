@@ -1,4 +1,4 @@
-### 👋 Hi There`^_^`! This is shenxianovo.
+### Hi There`^_^`! This is shenxianovo.
 
 <p align="center">
 Welcome, the
@@ -26,4 +26,8 @@ ___
 [![Windows](https://img.shields.io/badge/Windows_11-353940?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0ODc1IDQ4NzUiPjxwYXRoIGZpbGw9IiMwMDc4ZDQiIGQ9Ik0wIDBoMjMxMXYyMzEwSDB6bTI1NjQgMGgyMzExdjIzMTBIMjU2NHpNMCAyNTY0aDIzMTF2MjMxMUgwem0yNTY0IDBoMjMxMXYyMzExSDI1NjQiLz48L3N2Zz4=)](https://www.microsoft.com/en-us/software-download/windows11)
 [![WinUI 3](https://img.shields.io/badge/WinUI_3-0078D4?style=for-the-badge&logo=windows)](https://learn.microsoft.com/en-us/windows/apps/winui/)
 [![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet)
+
+
+
 
