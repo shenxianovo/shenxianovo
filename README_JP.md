@@ -22,4 +22,4 @@
 
 武漢大学 人工知能専攻 学部生  
 バックエンド開発志向  
-主な技術スタック：C# / ASP.NET Core
+主な技術スタック：C#/.NET デスクトップ・Web 開発（WPF / WinUI3 / ASP.NET Core）

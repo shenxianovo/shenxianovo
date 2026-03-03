@@ -21,5 +21,4 @@
 ## 关于我
 
 武汉大学 人工智能专业 本科生  
-后端开发方向，主力技术栈： C# / ASP.NET Core    
-
+后端开发方向，主力技术栈：C#/.NET 桌面与Web开发（WPF / WinUI3 / ASP.NET Core）
