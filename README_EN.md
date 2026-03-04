@@ -20,6 +20,9 @@
 
 ## About Me
 
-Undergraduate student at Wuhan University, majoring in Artificial Intelligence.  
-Backend-focused developer  
-Primary tech stack: C#/.NET desktop and web development (WPF / WinUI3 / ASP.NET Core)
+AI undergraduate at Wuhan University.
+
+Focused on AI application engineering and backend system design.
+
+Primary stack: C# / ASP.NET Core  
+Also working with Python for model inference and experimentation.
