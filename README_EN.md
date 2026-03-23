@@ -26,3 +26,7 @@ Focused on AI application engineering and backend system design.
 
 Primary stack: C# / ASP.NET Core  
 Also working with Python for model inference and experimentation.
+
+## Personal Blog
+
+https://blog.shenxianovo.com/

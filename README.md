@@ -26,3 +26,7 @@
 
 主力技术栈：C# / ASP.NET Core  
 使用 Python 进行模型推理服务整合与实验。
+
+## 个人博客
+
+https://blog.shenxianovo.com/
