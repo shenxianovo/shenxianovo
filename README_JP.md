@@ -22,11 +22,10 @@
 
 武漢大学 人工知能専攻 学部生
 
-AIアプリケーションのシステム実装およびバックエンド設計に注力。
+### 好みの開発スタック
 
-主な技術スタック：C# / ASP.NET Core  
-Pythonを用いたモデル推論サービスの統合および実験にも取り組んでいます。
+### プロジェクト & ブログ
 
-## 個人ブログ
-
-https://blog.shenxianovo.com/
+- 生存状態の確認: https://shenxianovo.com/heartbeat/
+- プライベート基盤: https://auth.shenxianovo.com
+- 個人ブログ: https://blog.shenxianovo.com

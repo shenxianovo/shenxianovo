@@ -22,11 +22,14 @@
 
 AI undergraduate at Wuhan University.
 
-Focused on AI application engineering and backend system design.
+### Preferred Stack
 
-Primary stack: C# / ASP.NET Core  
-Also working with Python for model inference and experimentation.
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,vue,dotnet,postgres,nginx,azure,cloudflare" />
+</p>
 
-## Personal Blog
+### Projects & Blog
 
-https://blog.shenxianovo.com/
+- Check my live status: https://shenxianovo.com/heartbeat/
+- Private infrastructure: https://auth.shenxianovo.com
+- Personal blog: https://blog.shenxianovo.com

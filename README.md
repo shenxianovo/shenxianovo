@@ -22,11 +22,14 @@
 
 武汉大学 人工智能专业 本科生
 
-专注 AI 应用系统工程与后端架构
+### 偏好开发栈
 
-主力技术栈：C# / ASP.NET Core  
-使用 Python 进行模型推理服务整合与实验。
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,vue,dotnet,postgres,nginx,azure,cloudflare" />
+</p>
 
-## 个人博客
+### 项目与博客
 
-https://blog.shenxianovo.com/
+- 视奸本人存活状态：https://shenxianovo.com/heartbeat/
+- 私域基建：https://auth.shenxianovo.com
+- 个人博客：https://blog.shenxianovo.com
