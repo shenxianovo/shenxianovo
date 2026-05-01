@@ -24,6 +24,10 @@
 
 ### 好みの開発スタック
 
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,vue,dotnet,postgres,git,github,nginx,azure,cloudflare" />
+</p>
+
 ### プロジェクト & ブログ
 
 - 生存状態の確認: https://shenxianovo.com/heartbeat/

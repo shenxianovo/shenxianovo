@@ -25,7 +25,7 @@ AI undergraduate at Wuhan University.
 ### Preferred Stack
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,vue,dotnet,postgres,nginx,azure,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=vscode,vue,dotnet,postgres,git,github,nginx,azure,cloudflare" />
 </p>
 
 ### Projects & Blog
