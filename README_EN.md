@@ -28,6 +28,8 @@ AI undergraduate at Wuhan University.
     <img src="https://skillicons.dev/icons?i=vscode,vue,dotnet,postgres,git,github,nginx,azure,cloudflare" />
 </p>
 
+![Metrics](https://raw.githubusercontent.com/shenxianovo/shenxianovo/main/github-metrics.svg)
+
 ### Projects & Blog
 
 - Check my live status: https://shenxianovo.com/heartbeat/

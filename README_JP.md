@@ -28,6 +28,8 @@
     <img src="https://skillicons.dev/icons?i=vscode,vue,dotnet,postgres,git,github,nginx,azure,cloudflare" />
 </p>
 
+![Metrics](https://raw.githubusercontent.com/shenxianovo/shenxianovo/main/github-metrics.svg)
+
 ### プロジェクト & ブログ
 
 - 生存状態の確認: https://shenxianovo.com/heartbeat/
