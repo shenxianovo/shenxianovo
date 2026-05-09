@@ -22,6 +22,10 @@
 
 武汉大学 人工智能专业 本科生
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/shenxianovo/shenxianovo/main/github-metrics.svg" />
+</p>
+
 ### 偏好开发栈
 
 <p align="center">

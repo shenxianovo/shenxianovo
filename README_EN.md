@@ -22,13 +22,15 @@
 
 AI undergraduate at Wuhan University.
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/shenxianovo/shenxianovo/main/github-metrics.svg" />
+</p>
+
 ### Preferred Stack
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=vscode,vue,dotnet,postgres,git,github,nginx,azure,cloudflare" />
 </p>
-
-![Metrics](https://raw.githubusercontent.com/shenxianovo/shenxianovo/main/github-metrics.svg)
 
 ### Projects & Blog
 

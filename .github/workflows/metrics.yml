@@ -25,3 +25,4 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
+          repositories_skipped: shenxianovo/moegirlLyricProcess, shenxianovo/shenxianovo.github.io, whudays/whudays.github.io
