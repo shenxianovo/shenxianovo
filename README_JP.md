@@ -22,17 +22,17 @@
 
 武漢大学 人工知能専攻 学部生
 
-<p align="center">
-    <img src="./github-metrics.svg" />
-</p>
-
 ### 好みの開発スタック
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=vscode,vue,dotnet,postgres,git,github,nginx,azure,cloudflare" />
 </p>
 
-![Metrics](https://raw.githubusercontent.com/shenxianovo/shenxianovo/main/github-metrics.svg)
+### コーディングプロフィール
+
+<p align="center">
+    <img src="./github-metrics.svg" />
+</p>
 
 ### プロジェクト & ブログ
 

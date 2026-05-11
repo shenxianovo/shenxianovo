@@ -22,14 +22,16 @@
 
 AI undergraduate at Wuhan University.
 
-<p align="center">
-    <img src="./github-metrics.svg" />
-</p>
-
 ### Preferred Stack
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=vscode,vue,dotnet,postgres,git,github,nginx,azure,cloudflare" />
+</p>
+
+### Coding Profile
+
+<p align="center">
+    <img src="./github-metrics.svg" />
 </p>
 
 ### Projects & Blog

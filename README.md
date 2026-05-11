@@ -22,9 +22,6 @@
 
 武汉大学 人工智能专业 本科生
 
-<p align="center">
-    <img src="./github-metrics.svg" />
-</p>
 
 ### 偏好开发栈
 
@@ -32,7 +29,11 @@
     <img src="https://skillicons.dev/icons?i=vscode,vue,dotnet,postgres,git,github,nginx,azure,cloudflare" />
 </p>
 
-![Metrics](https://raw.githubusercontent.com/shenxianovo/shenxianovo/main/github-metrics.svg)
+### Coding Profile
+
+<p align="center">
+    <img src="./github-metrics.svg" />
+</p>
 
 ### 项目与博客
 
