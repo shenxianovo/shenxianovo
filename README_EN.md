@@ -23,7 +23,7 @@
 AI undergraduate at Wuhan University.
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/shenxianovo/shenxianovo/main/github-metrics.svg" />
+    <img src="./github-metrics.svg" />
 </p>
 
 ### Preferred Stack

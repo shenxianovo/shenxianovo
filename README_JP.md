@@ -23,7 +23,7 @@
 武漢大学 人工知能専攻 学部生
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/shenxianovo/shenxianovo/main/github-metrics.svg" />
+    <img src="./github-metrics.svg" />
 </p>
 
 ### 好みの開発スタック

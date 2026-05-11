@@ -20,23 +20,10 @@ jobs:
           user: shenxianovo
 
           template: classic
-
           base: ""
 
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
 
-          plugin_languages_indepth: yes
-          plugin_languages_indepth_custom: |
-            shenxianovo/Heartbeat
-            shenxianovo/KnowlegdeBase
-            shenxianovo/MGFlow
-            shenxianovo/AgentScore
-            shenxianovo/AuthService
-            shenxianovo/DecStory
-            shenxianovo/KnowledgeEngineering
-            shenxianovo/DAW
-            shenxianovo/ToyRAG
-            WHUKE/JDParser
-            WHUDAYS/WHUDAYS-card-2025
+          filename: github-metrics.svg
