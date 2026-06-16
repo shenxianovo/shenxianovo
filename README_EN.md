@@ -36,6 +36,10 @@ AI undergraduate at Wuhan University.
 
 ### Projects & Blog
 
-- Check my live status: https://shenxianovo.com/heartbeat/
-- Private infrastructure: https://auth.shenxianovo.com
-- Personal blog: https://blog.shenxianovo.com
+- Main Site: https://shenxianovo.com
+- Auth & Authorization: https://auth.shenxianovo.com
+- Peek at my live status: https://heartbeat.shenxianovo.com
+- Personal Blog: https://blog.shenxianovo.com
+- Download Station: https://download.shenxianovo.com
+
+- Service Status: https://status.shenxianovo.com

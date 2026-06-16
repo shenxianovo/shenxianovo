@@ -37,8 +37,10 @@
 
 ### 项目与博客
 
-- 服务状态：https://status.shenxianovo.com/status/public
+- 主站：https://shenxianovo.com
+- 认证授权：https://auth.shenxianovo.com
 - 视奸本人存活状态：https://heartbeat.shenxianovo.com
-- 私域基建：https://auth.shenxianovo.com
 - 个人博客：https://blog.shenxianovo.com
 - 下载站：https://download.shenxianovo.com
+
+- 服务状态：https://status.shenxianovo.com

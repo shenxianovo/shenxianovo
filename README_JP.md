@@ -36,6 +36,10 @@
 
 ### プロジェクト & ブログ
 
-- 生存状態の確認: https://shenxianovo.com/heartbeat/
-- プライベート基盤: https://auth.shenxianovo.com
+- メインサイト: https://shenxianovo.com
+- 認証・認可: https://auth.shenxianovo.com
+- 生存状態の確認: https://heartbeat.shenxianovo.com
 - 個人ブログ: https://blog.shenxianovo.com
+- ダウンロードステーション: https://download.shenxianovo.com
+
+- サービスステータス: https://status.shenxianovo.com
