@@ -26,7 +26,7 @@
 ### 偏好开发栈
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,vue,dotnet,postgres,git,github,nginx,azure,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=vscode,react,dotnet,postgres,git,github,nginx,azure,cloudflare" />
 </p>
 
 ### Coding Profile
