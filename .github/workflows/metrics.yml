@@ -25,6 +25,6 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
-          plugin_languages_skipped: bilibili-peanut-cut, bilibili-sql-files
+          plugin_languages_skipped: bilibili-peanut-cut, bilibili-sql-files, shenxianovo/ByteDance
 
           filename: github-metrics.svg
